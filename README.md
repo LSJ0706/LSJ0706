@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20Jun%60s%20Git&fontSize=90)
-TYPE
+
 # Feel Free to Contact Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zosksldhs@gmail.com)](mailto:zosksldhs@gmail.com) [![Github Badge](https://img.shields.io/badge/Github-d14836?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LSJ0706)](https://github.com/LSJ0706)
 
